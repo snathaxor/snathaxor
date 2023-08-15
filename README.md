@@ -1,4 +1,6 @@
-[![MasterHead](["https://shorturl.at/CPQ14"](https://dribbble.com/shots/3816920-IoT-Overview/attachments/10036862?mode=media))
+<p align="center">
+  <img width="100%" src="https://dribbble.com/shots/3816920-IoT-Overview/attachments/10036862?mode=media">
+</p>
 <h1 align="center">Hi 👋, I'm Syed Naseeb Ali Tirmizi</h1>
 <h3 align="center">Flutter App Developer with a Track Record of Success From Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/kPW28">
