@@ -1,4 +1,4 @@
-[![MasterHead](https://dribbble.com/shots/3816920-IoT-Overview/attachments/10036862?mode=media)
+[![MasterHead]("https://shorturl.at/CPQ14")
 <h1 align="center">Hi 👋, I'm Syed Naseeb Ali Tirmizi</h1>
 <h3 align="center">Flutter App Developer with a Track Record of Success From Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/kPW28">
