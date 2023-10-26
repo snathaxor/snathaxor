@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Syed Naseeb Ali Tirmizi</h1>
 <h3 align="center">Flutter App Developer with a Track Record of Success From Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src="https://shorturl.at/kPW28">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
  <p> 🚀 With over 3+ years of hands-on experience in Flutter, I've crafted apps that are more than just code; they're immersive experiences that users love. My journey began with fascination and has evolved into a full-blown passion.  </p>
  <p>  🌟 I've ventured into the heart of Flutter's ecosystem, mastering the intricacies of UI/UX design, optimizing performance, and creating applications that perform seamlessly across platforms.  </p>
  <p>  📱 Having successfully developed and launched numerous apps on both the Play Store and the App Store, I have a proven track record of delivering top-notch mobile experiences. These apps aren't just icons on screens; they're the culmination of my dedication to innovation and excellence.  </p>
